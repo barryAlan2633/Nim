@@ -22,4 +22,6 @@ public class selectRowsActivity extends AppCompatActivity {
         Intent Transition2 = new Intent(this, whoGoesFirst.class);
         startActivity(Transition2);
     }
+
+    //comment
 }
