@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">A Game of Nim</string>
+    <string name="sixRows">Rows: 6</string>
+    <string name="sevenRows">Rows: 7</string>
+    <string name="eightRows">Rows: 8</string>
+    <string-array name="computerSpeed">
+        <item> 1 </item>
+        />
+        <item> 2 </item>
+        />
+        <item> 3 </item>
+        />
+        <item> 4 </item>
+        />
+        <item> 5 </item>
+        />
+        <item> 6 </item>
+        />
+    </string-array>
+</resources>
